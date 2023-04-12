@@ -80,8 +80,9 @@ body {
 }
 
 .attribution {
-  margin-top: 25px;
   font-family: "Outfit";
   text-align: center;
+  position: fixed;
+  bottom: 20px;
   padding: 0 10px 0 10px;
 }
